@@ -1,0 +1,3710 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "kind": "image",
+      "bytes": 188330,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0002-06d276db44df1c5def8acaa75443d404-1f3fe60207.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 4,
+      "kind": "image",
+      "bytes": 302064,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0004-中老年活动室管理制度-3aad0ebf4e.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 6,
+      "kind": "image",
+      "bytes": 10070766,
+      "width": 4096,
+      "height": 3072,
+      "thumbnail": "media/thumbs/0006-寰俊鍥剧墖_20260714143039_93_85-37a5ec5edd.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 8,
+      "kind": "image",
+      "bytes": 348033,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0008-鍚存ˉ闀囦簲濉旀潙鏂版椂浠ｆ枃鏄庡疄璺电珯宸ヤ綔鍒跺害-1741158d71.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": "五塔村"
+    },
+    {
+      "id": 10,
+      "kind": "image",
+      "bytes": 252312,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0010-8127ee34d16cfd27751d5f9464cf326b-d4bde82b0f.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 12,
+      "kind": "image",
+      "bytes": 2586494,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0012-IMG_8845-64cbfb1cc8.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 13,
+      "kind": "image",
+      "bytes": 254024,
+      "width": 1279,
+      "height": 1706,
+      "thumbnail": "media/thumbs/0013-76962477394f92b836c3750434a60b13-1a25654f72.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 14,
+      "kind": "image",
+      "bytes": 207182,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0014-ddea21b14734d8cfcd9c811de5018075-2c99356cc1.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 16,
+      "kind": "image",
+      "bytes": 2165226,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0016-IMG_8844-cca2646245.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 17,
+      "kind": "image",
+      "bytes": 629823,
+      "width": 1279,
+      "height": 1706,
+      "thumbnail": "media/thumbs/0017-e2684295c92aa3ee7b9cbbb005b5c3e-af00ff2a08.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 19,
+      "kind": "image",
+      "bytes": 151619,
+      "width": 1703,
+      "height": 1279,
+      "thumbnail": "media/thumbs/0019-寰俊鍥剧墖_20260714212904_4061_3-ebed3fa3fb.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 21,
+      "kind": "image",
+      "bytes": 2392075,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0021-IMG_20260705_104104-6107714027.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 23,
+      "kind": "image",
+      "bytes": 2749828,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0023-IMG_20260705_152356-fd74caeb4c.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 25,
+      "kind": "image",
+      "bytes": 336867,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0025-17138936c1f30334b672cb317e471afd-fae86f2f75.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 27,
+      "kind": "image",
+      "bytes": 4711139,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0027-IMG_20260703_145556-6ec13e8ab9.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 29,
+      "kind": "image",
+      "bytes": 3982414,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0029-IMG_20260703_144714-d5031b3066.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 31,
+      "kind": "image",
+      "bytes": 391273,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0031-便民服务点工作职责-d2a82e48ff.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 33,
+      "kind": "image",
+      "bytes": 358792,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0033-五塔村党群服务中心-b0a3ca3bd6.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": "五塔村"
+    },
+    {
+      "id": 35,
+      "kind": "image",
+      "bytes": 2365076,
+      "width": 2252,
+      "height": 4000,
+      "thumbnail": "media/thumbs/0035-20260703_145059-bfccfd3149.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 37,
+      "kind": "image",
+      "bytes": 254475,
+      "width": 1279,
+      "height": 1706,
+      "thumbnail": "media/thumbs/0037-7a690148c1006a11171298dd4958a5ba-a64a869194.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 38,
+      "kind": "image",
+      "bytes": 265220,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0038-bbfa880b1fda5704782b09d2c5310208-c57a08701a.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 40,
+      "kind": "image",
+      "bytes": 173805,
+      "width": 1279,
+      "height": 1706,
+      "thumbnail": "media/thumbs/0040-dd7d7fb4263716b30ae50e4667fbdb17-7babb75ed3.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 42,
+      "kind": "image",
+      "bytes": 2081504,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0042-IMG_8843-1b4a2dce54.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 43,
+      "kind": "image",
+      "bytes": 3974454,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0043-IMG_20260705_100818-17c2454fcc.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 45,
+      "kind": "image",
+      "bytes": 120708,
+      "width": 1706,
+      "height": 1279,
+      "thumbnail": "media/thumbs/0045-寰俊鍥剧墖_20260714212857_4054_3-3e0fe44515.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 49,
+      "kind": "image",
+      "bytes": 215568,
+      "width": 1806,
+      "height": 1284,
+      "thumbnail": "media/thumbs/0049-4524b75107710ce0afad8760207cf7b7-0763154a9e.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 50,
+      "kind": "image",
+      "bytes": 1802030,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0050-IMG_20260705_152421-be33202aa7.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 52,
+      "kind": "image",
+      "bytes": 5280534,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0052-8ba7571679d6099569315e85f1a6ca71-dee303d00d.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 53,
+      "kind": "image",
+      "bytes": 2070512,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0053-IMG_8842-c5e0edcb9c.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 54,
+      "kind": "image",
+      "bytes": 159111,
+      "width": 1706,
+      "height": 1279,
+      "thumbnail": "media/thumbs/0054-寰俊鍥剧墖_20260714212858_4055_3-84d9a5f05a.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 56,
+      "kind": "image",
+      "bytes": 245465,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0056-澶氬姛鑳芥椿鍔ㄥ绠＄悊瑙勫畾-65ba192cb2.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 58,
+      "kind": "image",
+      "bytes": 287810,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0058-dbf933a923bd78035b0a4d112695669a-b0a8f4e96a.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 60,
+      "kind": "image",
+      "bytes": 2155582,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0060-IMG_8840-a4324e15f1.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 61,
+      "kind": "image",
+      "bytes": 549294,
+      "width": 1706,
+      "height": 1279,
+      "thumbnail": "media/thumbs/0061-112ee780382251a5c4c2a52c877a6b1-e9eab4356f.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 63,
+      "kind": "image",
+      "bytes": 370927,
+      "width": 1707,
+      "height": 1280,
+      "thumbnail": "media/thumbs/0063-26c9e142e108834c3bfc848077b8b2fe-e537a6aa36.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 65,
+      "kind": "image",
+      "bytes": 156546,
+      "width": 1706,
+      "height": 1280,
+      "thumbnail": "media/thumbs/0065-寰俊鍥剧墖_20260714212721_4038_3-48b46c82bb.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 67,
+      "kind": "image",
+      "bytes": 2828057,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0067-鏂囧寲蹇楁効鑰呭崗浼氭紨鍑鸿妭鐩崟-5d1cc68bdb.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 68,
+      "kind": "image",
+      "bytes": 361519,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0068-益农信息员工作职责-4994f481dc.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 70,
+      "kind": "image",
+      "bytes": 712589,
+      "width": 1798,
+      "height": 1282,
+      "thumbnail": "media/thumbs/0070-新时代文明实践广场介绍-5a90030681.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 72,
+      "kind": "image",
+      "bytes": 1855437,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0072-IMG_8841-7d8f872b1a.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 73,
+      "kind": "image",
+      "bytes": 5339999,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0073-9-decc2328f9.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 75,
+      "kind": "image",
+      "bytes": 3459248,
+      "width": 4000,
+      "height": 3000,
+      "thumbnail": "media/thumbs/0075-IMG_20260703_150933-a36c93b6ff.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 78,
+      "kind": "image",
+      "bytes": 2320446,
+      "width": 2252,
+      "height": 4000,
+      "thumbnail": "media/thumbs/0078-20260703_144939-41360d6826.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 80,
+      "kind": "image",
+      "bytes": 243297,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0080-慈善工作站工作职责-56f0e65d00.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 82,
+      "kind": "image",
+      "bytes": 2866850,
+      "width": 1200,
+      "height": 1600,
+      "thumbnail": "media/thumbs/0082-document.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 84,
+      "kind": "image",
+      "bytes": 228684,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0084-eade3079b5093457f29f6c53c48d68aa-8e283e09fd.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 85,
+      "kind": "image",
+      "bytes": 126440,
+      "width": 1286,
+      "height": 1590,
+      "thumbnail": "media/thumbs/0085-ad9d042f3e9546ab186af5c0f1dc340c-b684ed2d53.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 87,
+      "kind": "image",
+      "bytes": 305864,
+      "width": 1707,
+      "height": 1280,
+      "thumbnail": "media/thumbs/0087-d4e84898e2f926091c5b7bd230bdeee3-d98ff9c020.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 89,
+      "kind": "image",
+      "bytes": 3782027,
+      "width": 3072,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0089-IMG_20260704_084904-358b2077c1.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 91,
+      "kind": "image",
+      "bytes": 360270,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0091-4d34c9528849a24f702d33d0a65f0e89-75b65b51e6.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 93,
+      "kind": "image",
+      "bytes": 319708,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0093-慈善工作站慈善资金管理办法-84d9a17d3a.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 95,
+      "kind": "image",
+      "bytes": 4557300,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0095-IMG_20260703_145454-71cb322e15.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 97,
+      "kind": "image",
+      "bytes": 4395538,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0097-IMG_20260705_084439-c24e6ec1f1.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 99,
+      "kind": "image",
+      "bytes": 2827012,
+      "width": 1200,
+      "height": 1600,
+      "thumbnail": "media/thumbs/0099-document.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 101,
+      "kind": "image",
+      "bytes": 3623613,
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "media/thumbs/0101-吴桥镇文化艺术活动中心-da3c211a76.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 102,
+      "kind": "image",
+      "bytes": 2009356,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0102-IMG_20260705_152453-366204e829.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 104,
+      "kind": "image",
+      "bytes": 206770,
+      "width": 1752,
+      "height": 1282,
+      "thumbnail": "media/thumbs/0104-3f7f3b1c0531b129e270aa7dd03f11a3-6a0b3590f4.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 105,
+      "kind": "image",
+      "bytes": 3520797,
+      "width": 4000,
+      "height": 3000,
+      "thumbnail": "media/thumbs/0105-IMG_20260705_152320-69f587f5ee.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 107,
+      "kind": "image",
+      "bytes": 2710551,
+      "width": 3946,
+      "height": 2094,
+      "thumbnail": "media/thumbs/0107-82d93939ed83a79c2d6e7736a0e60fa4-09a0fe851b.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 109,
+      "kind": "image",
+      "bytes": 2767178,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0109-IMG_8818-ebc8368341.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 110,
+      "kind": "image",
+      "bytes": 3085788,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0110-IMG_20260704_141654-07ff053204.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 112,
+      "kind": "image",
+      "bytes": 3961386,
+      "width": 3072,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0112-IMG_20260704_155812-d480f8e566.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 114,
+      "kind": "image",
+      "bytes": 183189,
+      "width": 1279,
+      "height": 1706,
+      "thumbnail": "media/thumbs/0114-1387ba4cbefec5897696637f91f949ae-f43150b42c.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 115,
+      "kind": "image",
+      "bytes": 2579241,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0115-IMG_8834-c1b749599d.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 117,
+      "kind": "image",
+      "bytes": 3489407,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0117-IMG_20260703_145445-1c311d05d4.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 119,
+      "kind": "image",
+      "bytes": 2435160,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0119-IMG_4411-fd08c63cee.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 121,
+      "kind": "image",
+      "bytes": 2089113,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0121-IMG_20260705_152456-ad85f6b0be.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 123,
+      "kind": "image",
+      "bytes": 301724,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0123-3e8dcc137bd20a9437101b98eeb956fe-c73775a1ab.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 124,
+      "kind": "image",
+      "bytes": 6041407,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0124-IMG_20260703_150908-a58b90cdd8.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 126,
+      "kind": "image",
+      "bytes": 92308,
+      "width": 1764,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0126-dcb453d11c6b980b385b0f94f2c80b95-9d978cdd6f.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 128,
+      "kind": "image",
+      "bytes": 2412553,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0128-IMG_8837-0111ed843c.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 129,
+      "kind": "image",
+      "bytes": 4880546,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0129-IMG_20260703_150922-a5d71e043a.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 131,
+      "kind": "image",
+      "bytes": 2957330,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0131-IMG_4348-eb6ad91811.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 133,
+      "kind": "image",
+      "bytes": 4037644,
+      "width": 4032,
+      "height": 3024,
+      "thumbnail": "media/thumbs/0133-IMG_4349-81481d1198.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 135,
+      "kind": "image",
+      "bytes": 238274,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0135-五塔村2026年6月份新时代文明实践活动清单-68bca0e1e3.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": "五塔村"
+    },
+    {
+      "id": 137,
+      "kind": "image",
+      "bytes": 635816,
+      "width": 3072,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0137-2476ea6d6a3bee0e05c9914f0f5774b0-1b40df6e82.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 139,
+      "kind": "image",
+      "bytes": 282377,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0139-420b45aaa7aa903b92bc3c404dd18ef8-195bae2845.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 140,
+      "kind": "image",
+      "bytes": 546155,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0140-b81784726d774783dff6b14d016ae89c-618389c1b4.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 142,
+      "kind": "image",
+      "bytes": 2062629,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0142-IMG_8836-3f6d3ce9c1.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 143,
+      "kind": "image",
+      "bytes": 4004807,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0143-IMG_20260703_150133-9967dd6496.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 145,
+      "kind": "image",
+      "bytes": 347338,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0145-村级劳动保障协理员工作职责-32339ce0c1.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 147,
+      "kind": "image",
+      "bytes": 7780383,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0147-IMG_20260702_183702-b00816b901.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 149,
+      "kind": "image",
+      "bytes": 3421391,
+      "width": 2252,
+      "height": 4000,
+      "thumbnail": "media/thumbs/0149-20260703_145346-3ddf29e9fd.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 151,
+      "kind": "image",
+      "bytes": 9989146,
+      "width": 3072,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0151-寰俊鍥剧墖_20260714143034_92_85-82bf80895e.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 153,
+      "kind": "image",
+      "bytes": 159093,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0153-ae8f6cd87823768746f66f6d2b819606-d7d0c9fad5.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 155,
+      "kind": "image",
+      "bytes": 1847607,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0155-IMG_8838-de8d68fd30.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 156,
+      "kind": "image",
+      "bytes": 8284311,
+      "width": 3072,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0156-寰俊鍥剧墖_20260714143143_109_85-9a1b2e9d43.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 158,
+      "kind": "image",
+      "bytes": 321763,
+      "width": 1706,
+      "height": 1279,
+      "thumbnail": "media/thumbs/0158-2ca12035bedd8a8f0a9e70ef914d4fc3-9f741a7b8e.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 159,
+      "kind": "image",
+      "bytes": 3658308,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0159-IMG_20260703_150044-eb45963c3d.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 161,
+      "kind": "image",
+      "bytes": 255937,
+      "width": 1707,
+      "height": 1280,
+      "thumbnail": "media/thumbs/0161-b92a4af3ea9c3ebee93ac3d204a12050-3a22d7f416.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 163,
+      "kind": "image",
+      "bytes": 290279,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0163-鍏ㄧ绀惧伐鏈嶅姟浠嬬粛-37f9b4320e.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 165,
+      "kind": "image",
+      "bytes": 2973160,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0165-IMG_4347-2cdb41670b.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 167,
+      "kind": "image",
+      "bytes": 3368876,
+      "width": 4096,
+      "height": 3072,
+      "thumbnail": "media/thumbs/0167-IMG_20260704_141631_1-e08b51c4b5.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 169,
+      "kind": "image",
+      "bytes": 3433978,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0169-IMG_20260703_145931-3b8f2bee87.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 171,
+      "kind": "image",
+      "bytes": 115688,
+      "width": 1703,
+      "height": 1279,
+      "thumbnail": "media/thumbs/0171-5d3daba1f23fc428cd0bffa482e8b388-c007c5a934.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 173,
+      "kind": "image",
+      "bytes": 2705335,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0173-IMG_20260705_152356_1-59fc06eb3e.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 175,
+      "kind": "image",
+      "bytes": 4461135,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0175-IMG_20260703_144805-60a134bf78.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 177,
+      "kind": "image",
+      "bytes": 234828,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0177-五塔村新时代文明实践所工作职责-aa55295cda.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": "五塔村"
+    },
+    {
+      "id": 179,
+      "kind": "image",
+      "bytes": 2151961,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0179-IMG_8839-a050f29469.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 180,
+      "kind": "image",
+      "bytes": 2806013,
+      "width": 1200,
+      "height": 1600,
+      "thumbnail": "media/thumbs/0180-document.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 182,
+      "kind": "image",
+      "bytes": 356605,
+      "width": 1279,
+      "height": 1706,
+      "thumbnail": "media/thumbs/0182-a5ce4e034d4c852663eaa5444811e023-3d7aa49ce5.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 183,
+      "kind": "image",
+      "bytes": 2650968,
+      "width": 2252,
+      "height": 4000,
+      "thumbnail": "media/thumbs/0183-20260703_144922-acf5d9315d.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 185,
+      "kind": "image",
+      "bytes": 3853090,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0185-IMG_20260703_145921-af70c07c59.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 187,
+      "kind": "image",
+      "bytes": 293097,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0187-综合文体活动中心制度(一)妇女儿童活动室管理制度-164d0d0938.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 189,
+      "kind": "image",
+      "bytes": 2286657,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0189-IMG_4380-e34ea1af6d.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 192,
+      "kind": "image",
+      "bytes": 2753700,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0192-IMG_20260703_145303-f615094472.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 194,
+      "kind": "image",
+      "bytes": 9788911,
+      "width": 3072,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0194-寰俊鍥剧墖_20260714143044_94_85-e3ba795370.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 196,
+      "kind": "image",
+      "bytes": 2167247,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0196-IMG_8814-ff0219ed4f.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 197,
+      "kind": "image",
+      "bytes": 230183,
+      "width": 1886,
+      "height": 1279,
+      "thumbnail": "media/thumbs/0197-a77a23f0fc765877c3138ba48adebf3d-384e36db79.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 198,
+      "kind": "image",
+      "bytes": 215123,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0198-416e50ba39f4c730d67cab6ef16d3491-669d6ba8ca.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 200,
+      "kind": "image",
+      "bytes": 8720388,
+      "width": 3072,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0200-IMG20260705152837-4b4fd128d4.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 202,
+      "kind": "image",
+      "bytes": 3854585,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0202-IMG_20260703_150136-a5fb15fe3f.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 204,
+      "kind": "image",
+      "bytes": 2915916,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0204-IMG_20260705_153226-6121d8ea99.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 206,
+      "kind": "image",
+      "bytes": 3424616,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0206-IMG_20260704_141706-df3eb47c1a.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 208,
+      "kind": "image",
+      "bytes": 401752,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0208-a41c26e4454ded994c6bdcc9d5dcf055-025325669b.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 209,
+      "kind": "image",
+      "bytes": 333476,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0209-c604014209b0d702102361367aea9962-c11726c6ac.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 211,
+      "kind": "image",
+      "bytes": 2394482,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "media/thumbs/0211-IMG_8817-6a162043d1.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 212,
+      "kind": "image",
+      "bytes": 112396,
+      "width": 1279,
+      "height": 1706,
+      "thumbnail": "media/thumbs/0212-e4b4778067bc4945d4d3d193eca33353-403e2d5311.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 213,
+      "kind": "image",
+      "bytes": 184438,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0213-04081c1f826482851771eecfc4b9ae83-dcff78c53c.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 215,
+      "kind": "image",
+      "bytes": 4131757,
+      "width": 4096,
+      "height": 3072,
+      "thumbnail": "media/thumbs/0215-IMG_20260705_103941-09f0be6c8d.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 217,
+      "kind": "image",
+      "bytes": 4413195,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0217-IMG_20260704_141628-fcfe8fd309.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 219,
+      "kind": "image",
+      "bytes": 3246471,
+      "width": 4096,
+      "height": 3072,
+      "thumbnail": "media/thumbs/0219-IMG_20260704_155649-2075cdfe66.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 221,
+      "kind": "image",
+      "bytes": 4977433,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0221-IMG_20260704_084819-fb937d28da.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 223,
+      "kind": "image",
+      "bytes": 2403782,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0223-IMG_20260705_152349-af8dfbaa2f.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 225,
+      "kind": "image",
+      "bytes": 4406691,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0225-IMG_20260703_145945-987bb66619.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 227,
+      "kind": "image",
+      "bytes": 357678,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0227-6fc75cc9208608b7393a602c5c16c83d-6c277f9955.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 228,
+      "kind": "image",
+      "bytes": 806692,
+      "width": 4096,
+      "height": 3072,
+      "thumbnail": "media/thumbs/0228-fdf44146031ca87b60c9b42119c0c39b-27f4ad7150.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 230,
+      "kind": "image",
+      "bytes": 474018,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0230-鍚存ˉ闀囦簲濉旀潙鏂囨槑绉垎鍏戞崲-13e93747f6.jpg",
+      "category": "其他",
+      "village_id": "五塔村"
+    },
+    {
+      "id": 232,
+      "kind": "image",
+      "bytes": 211515,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0232-e0ea83aa64a535cab6b70a5c433c9d99-36b4af842b.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 233,
+      "kind": "image",
+      "bytes": 1289987,
+      "width": 2252,
+      "height": 4000,
+      "thumbnail": "media/thumbs/0233-20260703_145859-432e98fe38.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 235,
+      "kind": "image",
+      "bytes": 349160,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0235-c7cf478f839389bd0cc1b98b51a39cdd-3392a82f16.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 237,
+      "kind": "image",
+      "bytes": 219939,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0237-569cdcee54a2fdcc123587a2beaf0ace-b4aaac17ba.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 239,
+      "kind": "image",
+      "bytes": 300405,
+      "width": 1440,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0239-综合服务社工作制度-acf4879532.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 241,
+      "kind": "image",
+      "bytes": 10957238,
+      "width": 3072,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0241-寰俊鍥剧墖_20260714143140_108_85-96b8c38bf9.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 243,
+      "kind": "image",
+      "bytes": 3041494,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0243-IMG_20260705_152415-b1b3e8fb8a.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 245,
+      "kind": "image",
+      "bytes": 322395,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0245-04988e3cbf7c5d56b6b32f60f484b78d-1eec8542ef.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 247,
+      "kind": "image",
+      "bytes": 3431429,
+      "width": 4096,
+      "height": 3072,
+      "thumbnail": "media/thumbs/0247-IMG_20260704_160226-bfc9d0737e.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 249,
+      "kind": "image",
+      "bytes": 1716825,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0249-IMG_20260705_104055-5fec8db648.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 251,
+      "kind": "image",
+      "bytes": 4480753,
+      "width": 3048,
+      "height": 4064,
+      "thumbnail": "media/thumbs/0251-3-d680e77339.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 252,
+      "kind": "image",
+      "bytes": 334004,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0252-3d7ed7fd194e644c517a5255b5ae5dcd-df64c3e5ea.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 254,
+      "kind": "image",
+      "bytes": 4568912,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0254-IMG_20260703_145809-2ad576a7a8.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 256,
+      "kind": "image",
+      "bytes": 441559,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0256-杩涘寲鏉戣鍔″-4b666bf587.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": "进化村"
+    },
+    {
+      "id": 258,
+      "kind": "image",
+      "bytes": 238177,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0258-4605bd99323eaf9b3cc7fec0e08b76b3-ca176301a1.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 260,
+      "kind": "image",
+      "bytes": 3804751,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0260-IMG_20260705_152013-65d264e771.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 262,
+      "kind": "image",
+      "bytes": 4033083,
+      "width": 4064,
+      "height": 3048,
+      "thumbnail": "media/thumbs/0262-IMG_20260705_152403-646bd39604.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 264,
+      "kind": "image",
+      "bytes": 202265,
+      "width": 1280,
+      "height": 1707,
+      "thumbnail": "media/thumbs/0264-a8f92c8c0c78ec2dda6d7f21cd653e1e-91557314d1.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 266,
+      "kind": "image",
+      "bytes": 230679,
+      "width": 1702,
+      "height": 1276,
+      "thumbnail": "media/thumbs/0266-2bd77c0ed83c718a39bdc4f15837928f-3da4d1c895.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 267,
+      "kind": "image",
+      "bytes": 2580268,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0267-IMG_20260705_113516-ab77cf042e.jpg",
+      "category": "其他",
+      "village_id": null
+    },
+    {
+      "id": 269,
+      "kind": "image",
+      "bytes": 365496,
+      "width": 1796,
+      "height": 1346,
+      "thumbnail": "media/thumbs/0269-叟护间：工作室简介+组织架构-ca662db552.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 270,
+      "kind": "image",
+      "bytes": 393295,
+      "width": 1798,
+      "height": 1326,
+      "thumbnail": "media/thumbs/0270-新时代文明实践站-工作职责+工作制度-d044f9f747.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 271,
+      "kind": "image",
+      "bytes": 354241,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0271-吴桥社火-道具介绍展板-18db76466d.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 272,
+      "kind": "image",
+      "bytes": 198034,
+      "width": 1796,
+      "height": 1346,
+      "thumbnail": "media/thumbs/0272-吴桥社火-省级非遗陈列室-a89728c368.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 273,
+      "kind": "image",
+      "bytes": 400302,
+      "width": 1462,
+      "height": 1798,
+      "thumbnail": "media/thumbs/0273-新时代文明实践站-组织机构-e5b34af8cb.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 274,
+      "kind": "image",
+      "bytes": 382069,
+      "width": 1796,
+      "height": 1346,
+      "thumbnail": "media/thumbs/0274-新时代文明实践站-江都吴桥镇文化志愿者协会团队荣誉-8470103074.jpg",
+      "category": "荣誉证书与成果材料",
+      "village_id": null
+    },
+    {
+      "id": 275,
+      "kind": "image",
+      "bytes": 208129,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0275-新时代文明实践站-心理咨询室-ca8d16e6f8.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 276,
+      "kind": "image",
+      "bytes": 369909,
+      "width": 1796,
+      "height": 1346,
+      "thumbnail": "media/thumbs/0276-新时代文明实践站-志愿者服务活动流程-8df9aa6360.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 277,
+      "kind": "image",
+      "bytes": 421996,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0277-吴桥镇文化志愿者协会发展历程1-c6f5748fe8.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 278,
+      "kind": "image",
+      "bytes": 381809,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0278-吴桥镇文化志愿者协会简介-85c2d2025a.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 279,
+      "kind": "image",
+      "bytes": 374277,
+      "width": 1796,
+      "height": 1346,
+      "thumbnail": "media/thumbs/0279-新时代文明实践站-志愿服务管理制度+项目分类-d832cf6c43.jpg",
+      "category": "制度职责与组织架构",
+      "village_id": null
+    },
+    {
+      "id": 280,
+      "kind": "image",
+      "bytes": 473765,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0280-吴桥镇文化志愿者协会六年发展历程3-fb2f8adea6.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 281,
+      "kind": "image",
+      "bytes": 514503,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0281-文化志愿者宣传手册：文化服务+广场活动-d612d1223d.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 282,
+      "kind": "image",
+      "bytes": 340078,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0282-吴桥社火-化妆介绍展板-221ac15796.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 283,
+      "kind": "image",
+      "bytes": 504920,
+      "width": 1678,
+      "height": 1790,
+      "thumbnail": "media/thumbs/0283-新时代文明实践站-宣传手册-8f40479cab.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 284,
+      "kind": "image",
+      "bytes": 626046,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0284-文化志愿者协会：简洁+荣誉+吴桥社火-e6c5370d23.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 285,
+      "kind": "image",
+      "bytes": 293937,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0285-新时代文明实践站-护苗工作站-71aa4b76f5.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 286,
+      "kind": "image",
+      "bytes": 661499,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0286-新时代文明实践站-借书室-361bb4bfb2.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 287,
+      "kind": "image",
+      "bytes": 588156,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0287-文化志愿者协会宣传手册：特色文艺+品牌活动-d18e049a9a.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 288,
+      "kind": "image",
+      "bytes": 535204,
+      "width": 1344,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0288-吴桥社火-表演道具-af62144035.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 289,
+      "kind": "image",
+      "bytes": 295144,
+      "width": 1796,
+      "height": 1346,
+      "thumbnail": "media/thumbs/0289-文化志愿者练舞戏台-6d5fc72485.jpg",
+      "category": "阵地设施与村庄风貌",
+      "village_id": null
+    },
+    {
+      "id": 290,
+      "kind": "image",
+      "bytes": 384473,
+      "width": 1576,
+      "height": 1796,
+      "thumbnail": "media/thumbs/0290-吴桥镇获奖红绸陈列-e57adb9f49.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 291,
+      "kind": "image",
+      "bytes": 382237,
+      "width": 1342,
+      "height": 1790,
+      "thumbnail": "media/thumbs/0291-吴桥镇文化志愿者协会活动联络站负责人-8b24340a01.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 292,
+      "kind": "image",
+      "bytes": 209111,
+      "width": 1336,
+      "height": 1792,
+      "thumbnail": "media/thumbs/0292-吴桥镇文化志愿者协会妇联+吴桥镇文化志愿者协会团支部-cc147b7525.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 293,
+      "kind": "image",
+      "bytes": 606417,
+      "width": 1346,
+      "height": 1794,
+      "thumbnail": "media/thumbs/0293-2026杩庢柊骞磋仈娆㈡椿鍔ㄨ妭鐩崟-b13195d8f9.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 294,
+      "kind": "image",
+      "bytes": 432482,
+      "width": 1480,
+      "height": 1798,
+      "thumbnail": "media/thumbs/0294-吴桥镇文化志愿者协会各分会负责人一览表-4f22adf49a.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 295,
+      "kind": "image",
+      "bytes": 469396,
+      "width": 1466,
+      "height": 1796,
+      "thumbnail": "media/thumbs/0295-戏曲表演《狸猫换太子》-631a4941b3.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 296,
+      "kind": "image",
+      "bytes": 206426,
+      "width": 1222,
+      "height": 1788,
+      "thumbnail": "media/thumbs/0296-吴桥镇文化志愿者协会组织架构+吴桥镇文化志愿者联合党支部-94d8ff7182.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 297,
+      "kind": "image",
+      "bytes": 337977,
+      "width": 1116,
+      "height": 1796,
+      "thumbnail": "media/thumbs/0297-吴桥镇文化志愿者协会-获奖陈列-78865474c5.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 298,
+      "kind": "image",
+      "bytes": 313169,
+      "width": 1308,
+      "height": 1786,
+      "thumbnail": "media/thumbs/0298-吴桥镇文化志愿者协会-演出节目单-9cf6499741.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 299,
+      "kind": "image",
+      "bytes": 425406,
+      "width": 1796,
+      "height": 1578,
+      "thumbnail": "media/thumbs/0299-戏曲表演《杨开慧》-53c0123d80.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 300,
+      "kind": "image",
+      "bytes": 436509,
+      "width": 1796,
+      "height": 1214,
+      "thumbnail": "media/thumbs/0300-吴桥镇文化志愿者协会获奖总列-3e1bb95513.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 301,
+      "kind": "image",
+      "bytes": 320391,
+      "width": 1796,
+      "height": 1212,
+      "thumbnail": "media/thumbs/0301-吴桥镇文化夜校活动中心-9be5bc76e6.jpg",
+      "category": "民俗非遗与文艺演出",
+      "village_id": null
+    },
+    {
+      "id": 305,
+      "kind": "image",
+      "bytes": 2049896,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0305-IMG_20260704_103823-e3e5f9f165.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 306,
+      "kind": "image",
+      "bytes": 2264695,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0306-IMG_20260704_103837-3dfd551553.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 307,
+      "kind": "image",
+      "bytes": 3421158,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0307-IMG_20260704_154827-0bcd0baea6.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 308,
+      "kind": "image",
+      "bytes": 2629977,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0308-IMG_20260704_160017-ef13ed2d0b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 309,
+      "kind": "image",
+      "bytes": 3938670,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0309-IMG_20260702_163313-40ef7cba17.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 310,
+      "kind": "image",
+      "bytes": 1516585,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0310-IMG_20260703_145958-5d830cafc6.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 311,
+      "kind": "image",
+      "bytes": 3011551,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0311-IMG_20260704_154832-11409c21dc.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 312,
+      "kind": "image",
+      "bytes": 2922557,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0312-IMG_20260704_105248-4a1de02bc1.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 313,
+      "kind": "image",
+      "bytes": 2600278,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0313-IMG_20260704_112708-b24d483aae.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 314,
+      "kind": "image",
+      "bytes": 3881750,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0314-IMG_20260704_141620-65c036cf20.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 315,
+      "kind": "image",
+      "bytes": 2466353,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0315-IMG_20260704_155127-90ee32dd18.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 316,
+      "kind": "image",
+      "bytes": 4305275,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0316-IMG_20260702_145249-ec977b7cf7.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 317,
+      "kind": "image",
+      "bytes": 2782157,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0317-IMG_20260703_145153-b925e1ffe7.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 318,
+      "kind": "image",
+      "bytes": 1610117,
+      "width": 1920,
+      "height": 4160,
+      "thumbnail": "media/thumbs/0318-IMG_20260703_150204-99b7151afc.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 319,
+      "kind": "image",
+      "bytes": 2967438,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0319-IMG_20260704_154950-17c2992a7d.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 320,
+      "kind": "image",
+      "bytes": 2465616,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0320-IMG_20260704_103834-3f31932bf7.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 321,
+      "kind": "image",
+      "bytes": 2736552,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0321-IMG_20260704_112722-383555e019.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 322,
+      "kind": "image",
+      "bytes": 4571142,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0322-IMG_20260703_162659-2ca7a63c13.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 323,
+      "kind": "image",
+      "bytes": 2915249,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0323-IMG_20260704_105302-21585ac873.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 324,
+      "kind": "image",
+      "bytes": 1852576,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0324-IMG_20260702_163339-14eb5bf10e.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 325,
+      "kind": "image",
+      "bytes": 2682929,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0325-IMG_20260704_160015-de39a6b0bc.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 326,
+      "kind": "image",
+      "bytes": 2387982,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0326-IMG_20260704_155050-b53bed06b7.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 327,
+      "kind": "image",
+      "bytes": 2766588,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0327-IMG_20260704_160014-02d8b200ef.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 328,
+      "kind": "image",
+      "bytes": 2653861,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0328-IMG_20260704_160000-566bb76dbd.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 329,
+      "kind": "image",
+      "bytes": 3146984,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0329-IMG_20260704_112910-0c6d0ea805.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 330,
+      "kind": "image",
+      "bytes": 2760559,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0330-IMG_20260704_155118-dbe8a6323b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 331,
+      "kind": "image",
+      "bytes": 2102890,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0331-IMG_20260704_155108-1d74e0f62a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 332,
+      "kind": "image",
+      "bytes": 2492973,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0332-IMG_20260704_103819-42c2eb8a43.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 333,
+      "kind": "image",
+      "bytes": 2294710,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0333-IMG_20260704_112914-62bd6df972.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 334,
+      "kind": "image",
+      "bytes": 2575403,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0334-IMG_20260703_145354-453a4cf255.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 335,
+      "kind": "image",
+      "bytes": 3410380,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0335-IMG_20260704_154809-7cc7ec85c5.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 336,
+      "kind": "image",
+      "bytes": 3114881,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0336-IMG_20260703_145234-d12367f4ec.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 337,
+      "kind": "image",
+      "bytes": 2795057,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0337-IMG_20260704_160010-f480115aec.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 338,
+      "kind": "image",
+      "bytes": 2219710,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0338-IMG_20260704_155929-43720e509d.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 339,
+      "kind": "image",
+      "bytes": 1849793,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0339-IMG_20260703_101106-ca5f28f2e8.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 340,
+      "kind": "image",
+      "bytes": 2609060,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0340-IMG_20260704_155055-7a4cca2f46.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 341,
+      "kind": "image",
+      "bytes": 2509465,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0341-IMG_20260704_155041-9243fd71ed.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 342,
+      "kind": "image",
+      "bytes": 2869403,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0342-IMG_20260704_160011-3862ded4bd.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 343,
+      "kind": "image",
+      "bytes": 2987620,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0343-IMG_20260704_160005-7c75ee17ce.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 344,
+      "kind": "image",
+      "bytes": 4896793,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0344-IMG_20260704_105312-38ca14f665.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 345,
+      "kind": "image",
+      "bytes": 3394104,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0345-IMG_20260704_154820-f16867a834.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 346,
+      "kind": "image",
+      "bytes": 3126617,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0346-IMG_20260704_112732-4b5a4bff31.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 347,
+      "kind": "image",
+      "bytes": 1598128,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0347-IMG_20260703_100345-02058a8f5b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 348,
+      "kind": "image",
+      "bytes": 2686063,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0348-IMG_20260704_154836-d958e41c85.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 349,
+      "kind": "image",
+      "bytes": 3878640,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0349-IMG_20260704_084815-b0c5c57eab.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 350,
+      "kind": "image",
+      "bytes": 2282174,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0350-IMG_20260704_160007-b735003420.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 351,
+      "kind": "image",
+      "bytes": 2105769,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0351-IMG_20260704_155043-7ca32f4e13.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 352,
+      "kind": "image",
+      "bytes": 2884879,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0352-IMG_20260704_160006-ad690bb23a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 353,
+      "kind": "image",
+      "bytes": 2167535,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0353-IMG_20260704_155240-49288a9684.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 354,
+      "kind": "image",
+      "bytes": 3207229,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0354-IMG_20260704_154823-32d3ba6854.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 355,
+      "kind": "image",
+      "bytes": 2633314,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0355-IMG_20260703_150820-f3c7c92143.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 356,
+      "kind": "image",
+      "bytes": 1935361,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0356-IMG_20260703_162931-d86fd3a695.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 357,
+      "kind": "image",
+      "bytes": 3069982,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0357-IMG_20260704_154758-9f652e9f4a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 358,
+      "kind": "image",
+      "bytes": 3156713,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0358-IMG_20260703_114643-10235479a1.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 359,
+      "kind": "image",
+      "bytes": 2609805,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0359-IMG_20260704_103827-af9bcfeb88.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 360,
+      "kind": "image",
+      "bytes": 1760643,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0360-IMG_20260702_144811-39b92c2d02.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 361,
+      "kind": "image",
+      "bytes": 2394230,
+      "width": 1920,
+      "height": 4160,
+      "thumbnail": "media/thumbs/0361-IMG_20260702_143857-b11ad1842c.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 362,
+      "kind": "image",
+      "bytes": 2543842,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0362-IMG_20260703_114744-216e832237.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 363,
+      "kind": "image",
+      "bytes": 2833126,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0363-IMG_20260703_145047-0a804f79bd.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 364,
+      "kind": "image",
+      "bytes": 4213577,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0364-IMG_20260704_105606-7d08fc57f4.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 365,
+      "kind": "image",
+      "bytes": 2854694,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0365-IMG_20260704_155959-449b2d8702.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 366,
+      "kind": "image",
+      "bytes": 1902724,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0366-IMG_20260703_151225-96a69a7247.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 367,
+      "kind": "image",
+      "bytes": 3427285,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0367-IMG_20260703_145250-4e58f81834.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 368,
+      "kind": "image",
+      "bytes": 2989855,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0368-IMG_20260704_103909-0aa12d0a82.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 369,
+      "kind": "image",
+      "bytes": 2368655,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0369-IMG_20260704_154919-2840cf6927.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 370,
+      "kind": "image",
+      "bytes": 2807656,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0370-IMG_20260703_145326-435100d66c.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 371,
+      "kind": "image",
+      "bytes": 1717203,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0371-IMG_20260703_150111-39b6090ebb.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 372,
+      "kind": "image",
+      "bytes": 2190721,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0372-IMG_20260703_145905-5164241fcf.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 373,
+      "kind": "image",
+      "bytes": 1853749,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0373-IMG_20260702_143713-572c0d813e.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 374,
+      "kind": "image",
+      "bytes": 2507890,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0374-IMG_20260704_084859-f5ff7b4a67.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 376,
+      "kind": "image",
+      "bytes": 2382314,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0376-IMG_20260704_112740-9ae185b351.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 377,
+      "kind": "image",
+      "bytes": 2683591,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0377-IMG_20260703_145131-e119292b0e.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 378,
+      "kind": "image",
+      "bytes": 4756497,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0378-IMG_20260703_114805-e5c82cc13a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 379,
+      "kind": "image",
+      "bytes": 1302884,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0379-IMG_20260703_145257-ce44ced538.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 380,
+      "kind": "image",
+      "bytes": 2041155,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0380-IMG_20260704_155235-d286e97fa3.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 381,
+      "kind": "image",
+      "bytes": 2356028,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0381-IMG_20260703_160955-e328a45122.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 382,
+      "kind": "image",
+      "bytes": 3180259,
+      "width": 1920,
+      "height": 4160,
+      "thumbnail": "media/thumbs/0382-IMG_20260703_145243-68630f616c.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 383,
+      "kind": "image",
+      "bytes": 1924649,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0383-IMG_20260703_150302-637b9587be.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 384,
+      "kind": "image",
+      "bytes": 2839651,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0384-IMG_20260703_145040-10a2e11c4c.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 385,
+      "kind": "image",
+      "bytes": 1364574,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0385-IMG_20260704_155154-062f2ba200.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 386,
+      "kind": "image",
+      "bytes": 1901147,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0386-IMG_20260703_095707-ecffbb9143.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 387,
+      "kind": "image",
+      "bytes": 2276326,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0387-IMG_20260704_155035-9e25c89292.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 388,
+      "kind": "image",
+      "bytes": 2845484,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0388-IMG_20260704_154854-e013a5aa33.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 389,
+      "kind": "image",
+      "bytes": 3328740,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0389-IMG_20260704_104939-0c23d3824b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 390,
+      "kind": "image",
+      "bytes": 3040677,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0390-IMG_20260704_105206-09fc274a7d.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 391,
+      "kind": "image",
+      "bytes": 2819794,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0391-IMG_20260704_154908-da5b0c5866.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 392,
+      "kind": "image",
+      "bytes": 2760973,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0392-IMG_20260704_155155-46a5b9fe57.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 393,
+      "kind": "image",
+      "bytes": 2615314,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0393-IMG_20260702_145234-0e39d14c04.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 394,
+      "kind": "image",
+      "bytes": 4361986,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0394-IMG_20260702_155225-5a4862a5c1.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 395,
+      "kind": "image",
+      "bytes": 1212419,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0395-IMG_20260704_155206-0ee0f52dad.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 396,
+      "kind": "image",
+      "bytes": 2009840,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0396-IMG_20260704_155038-d5ac77a305.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 397,
+      "kind": "image",
+      "bytes": 2021527,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0397-IMG_20260702_143718-169821c53d.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 398,
+      "kind": "image",
+      "bytes": 2836319,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0398-IMG_20260704_155944-bea2d2ab00.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 399,
+      "kind": "image",
+      "bytes": 3275663,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0399-IMG_20260704_155950-e76a19810e.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 400,
+      "kind": "image",
+      "bytes": 2091289,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0400-IMG_20260703_150132-92ad830158.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 401,
+      "kind": "image",
+      "bytes": 1891802,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0401-IMG_20260704_155213-5175816f0b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 402,
+      "kind": "image",
+      "bytes": 3998046,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0402-IMG_20260702_145037-aab76b1953.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 403,
+      "kind": "image",
+      "bytes": 2535850,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0403-IMG_20260704_154938-bf36ce869b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 404,
+      "kind": "image",
+      "bytes": 2615331,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0404-IMG_20260703_145105-d407968403.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 405,
+      "kind": "image",
+      "bytes": 3001313,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0405-IMG_20260702_182740-93bc2a4a7b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 406,
+      "kind": "image",
+      "bytes": 1431738,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0406-IMG_20260703_150130-aacc3d5bab.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 407,
+      "kind": "image",
+      "bytes": 2612883,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0407-IMG_20260704_155946-2e13996f8b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 408,
+      "kind": "image",
+      "bytes": 2044451,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0408-IMG_20260703_145930-1a00949ed3.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 409,
+      "kind": "image",
+      "bytes": 3096018,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0409-IMG_20260704_155952-bafecf85ad.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 410,
+      "kind": "image",
+      "bytes": 4039593,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0410-IMG_20260704_155749-54d8fab66a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 411,
+      "kind": "image",
+      "bytes": 2944894,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0411-IMG_20260703_145058-e92d5377bc.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 412,
+      "kind": "image",
+      "bytes": 1943661,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0412-IMG_20260703_101626-5b33e9ef75.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 413,
+      "kind": "image",
+      "bytes": 1740711,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0413-IMG_20260704_103730-b09ddfc70a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 414,
+      "kind": "image",
+      "bytes": 5372129,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0414-IMG_20260703_120429-a940794fb4.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 415,
+      "kind": "image",
+      "bytes": 4206287,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0415-IMG_20260702_145034-87af8ddbaa.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 416,
+      "kind": "image",
+      "bytes": 3688097,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0416-IMG_20260704_112749-e94a28fc25.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 417,
+      "kind": "image",
+      "bytes": 2147520,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0417-IMG_20260703_145306-a08bc7ab00.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 418,
+      "kind": "image",
+      "bytes": 2059499,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0418-IMG_20260704_141649-611fa6f3c2.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 419,
+      "kind": "image",
+      "bytes": 4034637,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0419-IMG_20260702_145249_1-c0c3d39fe8.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 420,
+      "kind": "image",
+      "bytes": 2411513,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0420-IMG_20260703_145114-87771e1f52.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 421,
+      "kind": "image",
+      "bytes": 2145332,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0421-IMG_20260704_105231-d468694bf1.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 422,
+      "kind": "image",
+      "bytes": 2827618,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0422-IMG_20260704_155943-6f7bc191b3.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 423,
+      "kind": "image",
+      "bytes": 2838422,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0423-IMG_20260704_155957-6706245a7b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 424,
+      "kind": "image",
+      "bytes": 2557210,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0424-IMG_20260702_142825-f6bdaba32a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 426,
+      "kind": "image",
+      "bytes": 4010958,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0426-IMG_20260704_105032-3974bca3c5.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 427,
+      "kind": "image",
+      "bytes": 3644491,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0427-IMG_20260704_105026-1501ec3f9a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 428,
+      "kind": "image",
+      "bytes": 3470012,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0428-IMG_20260703_162555-60c954c9bc.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 429,
+      "kind": "image",
+      "bytes": 2306063,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0429-IMG_20260703_145315-c8f0e48a57.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 430,
+      "kind": "image",
+      "bytes": 2495401,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0430-IMG_20260704_103737-03e0655831.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 431,
+      "kind": "image",
+      "bytes": 2692236,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0431-IMG_20260704_155954-8e73e6e1b4.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 432,
+      "kind": "image",
+      "bytes": 2303308,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0432-IMG_20260704_155029-98d4508569.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 433,
+      "kind": "image",
+      "bytes": 2295590,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0433-IMG_20260703_151017-362fe9faf1.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 434,
+      "kind": "image",
+      "bytes": 5128523,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0434-IMG_20260704_105421-5201e363b5.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 435,
+      "kind": "image",
+      "bytes": 3144781,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0435-IMG_20260704_154849-17b9889693.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 436,
+      "kind": "image",
+      "bytes": 1735820,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0436-IMG_20260703_150057-6f1d4328cb.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 437,
+      "kind": "image",
+      "bytes": 1388778,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0437-IMG_20260704_103859-af5c132bed.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 438,
+      "kind": "image",
+      "bytes": 4108103,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0438-IMG_20260703_120942-72bd89a114.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 439,
+      "kind": "image",
+      "bytes": 3258576,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0439-IMG_20260704_105019-76e6bf7c4b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 440,
+      "kind": "image",
+      "bytes": 5071151,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0440-IMG_20260702_145230-28d3891ec6.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 441,
+      "kind": "image",
+      "bytes": 2067160,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0441-IMG_20260704_103802-dc306e9578.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 442,
+      "kind": "image",
+      "bytes": 2745294,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0442-IMG_20260704_105240-24bc27c64a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 443,
+      "kind": "image",
+      "bytes": 1288499,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0443-IMG_20260703_165114-a913368ffd.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 444,
+      "kind": "image",
+      "bytes": 4378349,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0444-IMG_20260703_114909-22733b09ff.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 445,
+      "kind": "image",
+      "bytes": 3757505,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0445-IMG_20260704_105123-613cf2e162.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 446,
+      "kind": "image",
+      "bytes": 1533088,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0446-IMG_20260704_103750-efc907aaf4.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 447,
+      "kind": "image",
+      "bytes": 2828194,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0447-IMG_20260704_095040-905dc34c8a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 448,
+      "kind": "image",
+      "bytes": 3075399,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0448-IMG_20260704_104956-1ff69da862.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 449,
+      "kind": "image",
+      "bytes": 3492473,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0449-IMG_20260704_141629-73d727f3b0.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 450,
+      "kind": "image",
+      "bytes": 2657958,
+      "width": 1920,
+      "height": 4160,
+      "thumbnail": "media/thumbs/0450-IMG_20260703_115021-1589990c4b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 451,
+      "kind": "image",
+      "bytes": 2631547,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0451-IMG_20260702_144821-72dd4b7156.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 452,
+      "kind": "image",
+      "bytes": 2811294,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0452-IMG_20260704_154959-4339029e7d.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 453,
+      "kind": "image",
+      "bytes": 2360161,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0453-IMG_20260703_145358-073513ae06.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 454,
+      "kind": "image",
+      "bytes": 2926362,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0454-IMG_20260704_112703-d29d08c752.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 455,
+      "kind": "image",
+      "bytes": 2030728,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0455-IMG_20260704_155931-21dbcab441.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 456,
+      "kind": "image",
+      "bytes": 2660950,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0456-IMG_20260704_155059-152d56411b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 457,
+      "kind": "image",
+      "bytes": 3386617,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0457-IMG_20260704_113756-0b81cbf0c0.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 458,
+      "kind": "image",
+      "bytes": 1680520,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0458-IMG_20260703_145952-a7935ef91c.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 459,
+      "kind": "image",
+      "bytes": 2727020,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0459-IMG_20260704_160009-da6d23479b.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 460,
+      "kind": "image",
+      "bytes": 2627420,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0460-IMG_20260704_155918-20e133e8fd.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 461,
+      "kind": "image",
+      "bytes": 3547451,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0461-IMG_20260704_112716-846eb59804.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 462,
+      "kind": "image",
+      "bytes": 2238149,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0462-IMG_20260704_103800-8891e9bb3c.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 463,
+      "kind": "image",
+      "bytes": 2197853,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0463-IMG_20260704_155105-c260e284b8.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 464,
+      "kind": "image",
+      "bytes": 1944549,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0464-IMG_20260702_143807-d9e6e8a470.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 465,
+      "kind": "image",
+      "bytes": 1505474,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0465-IMG_20260702_143620-40f09d54f5.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 466,
+      "kind": "image",
+      "bytes": 3398085,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0466-IMG_20260704_141612-d5882cb077.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 467,
+      "kind": "image",
+      "bytes": 2292070,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0467-IMG_20260704_103804-a709575f5e.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 468,
+      "kind": "image",
+      "bytes": 2006896,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0468-IMG_20260704_154753-61e702a77d.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 469,
+      "kind": "image",
+      "bytes": 3188002,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0469-IMG_20260704_154814-f1d53ba051.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 470,
+      "kind": "image",
+      "bytes": 1703811,
+      "width": 1920,
+      "height": 4160,
+      "thumbnail": "media/thumbs/0470-IMG_20260703_150156-9240def4b6.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 471,
+      "kind": "image",
+      "bytes": 2508014,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0471-IMG_20260704_100538-f4fc6e6964.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 472,
+      "kind": "image",
+      "bytes": 2206912,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0472-IMG_20260703_145942-0488d375e2.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 473,
+      "kind": "image",
+      "bytes": 2019234,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0473-IMG_20260704_152727-11690d9175.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 474,
+      "kind": "image",
+      "bytes": 3133802,
+      "width": 1888,
+      "height": 4096,
+      "thumbnail": "media/thumbs/0474-IMG_20260704_155921-c83e013b1e.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 475,
+      "kind": "image",
+      "bytes": 2685136,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0475-IMG_20260703_145228-b45dab6674.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 476,
+      "kind": "image",
+      "bytes": 2699672,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0476-IMG_20260703_162708-66718f62dd.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 477,
+      "kind": "image",
+      "bytes": 2548562,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0477-IMG_20260704_103811-617527c818.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 478,
+      "kind": "image",
+      "bytes": 2720076,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0478-IMG_20260704_155114-75475b1167.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 479,
+      "kind": "image",
+      "bytes": 2640745,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0479-IMG_20260704_155102-5b80394918.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 480,
+      "kind": "image",
+      "bytes": 3126524,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0480-IMG_20260704_103807-2a9e220dd9.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 481,
+      "kind": "image",
+      "bytes": 2589773,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0481-IMG_20260704_103813-0632a83058.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 482,
+      "kind": "image",
+      "bytes": 3622547,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0482-IMG_20260703_162939-4f747a1f3c.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 483,
+      "kind": "image",
+      "bytes": 2504762,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0483-IMG_20260703_150814-f4f4879c10.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 484,
+      "kind": "image",
+      "bytes": 3090038,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0484-IMG_20260704_154803-2c46228fcd.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 485,
+      "kind": "image",
+      "bytes": 1389495,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0485-IMG_20260704_103754-e6730b0fa2.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 486,
+      "kind": "image",
+      "bytes": 3399146,
+      "width": 4160,
+      "height": 1920,
+      "thumbnail": "media/thumbs/0486-IMG_20260703_145202-7c53259241.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 487,
+      "kind": "image",
+      "bytes": 3147437,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0487-IMG_20260704_103740-471f3f1417.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 488,
+      "kind": "image",
+      "bytes": 1967841,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0488-IMG_20260704_155923-5eb36816e4.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 489,
+      "kind": "image",
+      "bytes": 1424695,
+      "width": 1920,
+      "height": 4160,
+      "thumbnail": "media/thumbs/0489-IMG_20260703_145029-b937d19b36.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 490,
+      "kind": "image",
+      "bytes": 3144531,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0490-IMG_20260704_155936-78bba55b27.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 491,
+      "kind": "image",
+      "bytes": 4101641,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0491-IMG_20260703_162910-9c7de62e6c.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 492,
+      "kind": "image",
+      "bytes": 3261007,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0492-IMG_20260703_162938-e7b00f4a6a.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    },
+    {
+      "id": 493,
+      "kind": "image",
+      "bytes": 4036184,
+      "width": 4096,
+      "height": 1888,
+      "thumbnail": "media/thumbs/0493-IMG_20260703_190210-88dcb0b5ae.jpg",
+      "category": "田野调查与访谈",
+      "village_id": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "田野调查与访谈",
+      "count": 187
+    },
+    {
+      "name": "民俗非遗与文艺演出",
+      "count": 18
+    },
+    {
+      "name": "阵地设施与村庄风貌",
+      "count": 17
+    },
+    {
+      "name": "制度职责与组织架构",
+      "count": 16
+    },
+    {
+      "name": "荣誉证书与成果材料",
+      "count": 1
+    },
+    {
+      "name": "其他",
+      "count": 129
+    }
+  ]
+}

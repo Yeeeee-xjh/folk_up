@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="民间文艺赋能乡风文明建设研究数据库">
+  <title>民间文艺赋能乡风文明建设研究数据库</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="school-mark"><span>南农</span> 南京农业大学 · 社会学系实践教学成果</div>
+      <h1>民间文艺赋能乡风文明建设研究数据库</h1>
+      <p class="editable-subtitle">南京农业大学社会学系吴桥镇田野调查成果平台</p>
+      <div class="stats" id="heroStats" aria-label="数据库统计"></div>
+    </div>
+    <nav class="primary-nav" aria-label="数据库主导航">
+      <button data-view="literature" class="active">文献检索</button>
+      <button data-view="association">协会概况</button>
+      <button data-view="projects">特色实践项目</button>
+      <button data-view="results">主要成效</button>
+      <button data-view="gallery">影像库</button>
+      <button data-view="map">村庄地图</button>
+    </nav>
+  </header>
+
+  <main id="mainContent" tabindex="-1">
+    <section id="literature" class="view active"></section>
+    <section id="association" class="view"></section>
+    <section id="projects" class="view"></section>
+    <section id="results" class="view results-view"></section>
+    <section id="gallery" class="view"></section>
+    <section id="map" class="view"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <strong>民间文艺赋能乡风文明建设研究数据库</strong>
+      <p>南京农业大学社会学系实践教学成果</p>
+    </div>
+    <details>
+      <summary>数据来源与口径说明</summary>
+      <p>本平台汇集田野调查报告、协会资料、公开报道、志愿服务统计与现有影像档案。地图用于呈现村庄之间的位置关系，不作为行政边界或测绘依据。公开页面仅展示经过整理和脱敏的信息。</p>
+    </details>
+  </footer>
+
+  <button class="ai-fab" id="aiFab" aria-expanded="false">AI 问答</button>
+  <aside class="ai-panel" id="aiPanel" aria-hidden="true">
+    <div class="ai-head"><div><strong>资料库问答</strong><small>本地检索模式 · 未配置生成式 AI API</small></div><button id="aiClose" aria-label="关闭">×</button></div>
+    <div class="ai-messages" id="aiMessages"><p class="ai-answer">请输入协会、项目、村庄或文献关键词。我会返回资料库中最相关的记录和出处，不会编造答案。</p></div>
+    <form id="aiForm"><input id="aiInput" placeholder="例如：公益国学讲堂有哪些课程？"><button>检索</button></form>
+  </aside>
+
+  <dialog id="readerDialog" class="reader-dialog"><button class="dialog-close" data-close="readerDialog">关闭</button><article id="readerBody"></article></dialog>
+  <dialog id="lightbox" class="lightbox"><button class="dialog-close" data-close="lightbox">关闭</button><button id="prevImage" class="lightbox-nav prev">上一张</button><figure><img id="lightboxImage" alt="资料影像"><figcaption id="lightboxCaption"></figcaption></figure><button id="nextImage" class="lightbox-nav next">下一张</button></dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

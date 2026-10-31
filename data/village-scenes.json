@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "吴桥镇13个行政村资料页配置",
+    "disclaimer": "村庄位置与资料关联用于研究成果浏览，不作为行政边界或测绘依据。"
+  },
+  "villages": [
+    {
+      "id": "xiaodang",
+      "name": "小荡村",
+      "activities": [
+        "镇村文艺巡演",
+        "公益课堂"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "wanshou",
+      "name": "万寿村",
+      "activities": [
+        "吴桥社火",
+        "社火民俗展览"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "wuta",
+      "name": "五塔村",
+      "activities": [
+        "文明积分兑换",
+        "文体活动",
+        "志愿服务"
+      ],
+      "photoIds": [
+        8,
+        33,
+        135,
+        177,
+        230
+      ]
+    },
+    {
+      "id": "jinhua",
+      "name": "进化村",
+      "activities": [
+        "经典悦读兴趣班",
+        "未来文明之星结对帮扶"
+      ],
+      "photoIds": [
+        256
+      ]
+    },
+    {
+      "id": "luyuan",
+      "name": "陆袁村",
+      "activities": [
+        "镇级巡演",
+        "节日慰问"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "jinyang",
+      "name": "金阳村",
+      "activities": [
+        "欢乐村村行",
+        "乡村大舞台"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "honghe",
+      "name": "红河村",
+      "activities": [
+        "扬剧排演",
+        "歌舞节目排演"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "shiyuan",
+      "name": "世元村",
+      "activities": [
+        "小型文艺沙龙",
+        "志愿座谈"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "liqiao",
+      "name": "李桥村",
+      "activities": [
+        "节日主题活动"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "changzhuang",
+      "name": "长庄村",
+      "activities": [
+        "样本村调研",
+        "文化参与观察"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "jiliu",
+      "name": "季刘村",
+      "activities": [
+        "新时代文明实践",
+        "文化服务下沉"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "gaoyang",
+      "name": "高扬村",
+      "activities": [
+        "节日义演"
+      ],
+      "photoIds": []
+    },
+    {
+      "id": "wanghe",
+      "name": "王河村",
+      "activities": [
+        "样本村调研",
+        "公共文化供给观察"
+      ],
+      "photoIds": [],
+      "photos": [
+        {
+          "path": "media/villages/wanghe-village-clinic.jpg"
+        }
+      ]
+    }
+  ]
+}

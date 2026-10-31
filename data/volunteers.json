@@ -1,0 +1,1644 @@
+{
+  "meta": {
+    "imported": 231,
+    "privacy": "公开名录已进行姓名脱敏，仅展示统计分析所需字段。"
+  },
+  "items": [
+    {
+      "name": "陈**",
+      "gender": "女",
+      "village": "万寿村",
+      "band": "50-59岁",
+      "hours": 380
+    },
+    {
+      "name": "李**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 596
+    },
+    {
+      "name": "韩**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "40-49岁",
+      "hours": 433
+    },
+    {
+      "name": "陆**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "60-69岁",
+      "hours": 351
+    },
+    {
+      "name": "程*",
+      "gender": "女",
+      "village": "万寿村",
+      "band": "40-49岁",
+      "hours": 402
+    },
+    {
+      "name": "胡**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "60-69岁",
+      "hours": 526
+    },
+    {
+      "name": "王**",
+      "gender": "男",
+      "village": "谢桥社区",
+      "band": "60-69岁",
+      "hours": 260
+    },
+    {
+      "name": "王*",
+      "gender": "男",
+      "village": "季刘村",
+      "band": "30-39岁",
+      "hours": 254
+    },
+    {
+      "name": "倪*",
+      "gender": "女",
+      "village": "万寿村",
+      "band": "50-59岁",
+      "hours": 412
+    },
+    {
+      "name": "彭**",
+      "gender": "女",
+      "village": "万寿村",
+      "band": "60-69岁",
+      "hours": 578
+    },
+    {
+      "name": "陆**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "50-59岁",
+      "hours": 387
+    },
+    {
+      "name": "郭**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "60-69岁",
+      "hours": 442
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "万寿村",
+      "band": "50-59岁",
+      "hours": 268
+    },
+    {
+      "name": "翟**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "60-69岁",
+      "hours": 229
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "70岁及以上",
+      "hours": 233
+    },
+    {
+      "name": "赵**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "50-59岁",
+      "hours": 213
+    },
+    {
+      "name": "刘**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "50-59岁",
+      "hours": 227
+    },
+    {
+      "name": "马**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "40-49岁",
+      "hours": 238
+    },
+    {
+      "name": "田**",
+      "gender": "女",
+      "village": "谢桥社区",
+      "band": "60-69岁",
+      "hours": 210
+    },
+    {
+      "name": "方**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 197
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 199
+    },
+    {
+      "name": "陈**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 191
+    },
+    {
+      "name": "季**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "50-59岁",
+      "hours": 217
+    },
+    {
+      "name": "沙**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "60-69岁",
+      "hours": 190
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "50-59岁",
+      "hours": 190
+    },
+    {
+      "name": "李**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "60-69岁",
+      "hours": 192
+    },
+    {
+      "name": "乔**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "60-69岁",
+      "hours": 188
+    },
+    {
+      "name": "沈*",
+      "gender": "男",
+      "village": "万寿村",
+      "band": "70岁及以上",
+      "hours": 385
+    },
+    {
+      "name": "陈**",
+      "gender": "男",
+      "village": "长庄村",
+      "band": "70岁及以上",
+      "hours": 400
+    },
+    {
+      "name": "马**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 157
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "50-59岁",
+      "hours": 189
+    },
+    {
+      "name": "薛**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 191
+    },
+    {
+      "name": "马**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 191
+    },
+    {
+      "name": "凌*",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 193
+    },
+    {
+      "name": "韩**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "60-69岁",
+      "hours": 188
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "50-59岁",
+      "hours": 191
+    },
+    {
+      "name": "孙**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 203
+    },
+    {
+      "name": "孙**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "50-59岁",
+      "hours": 209
+    },
+    {
+      "name": "孙**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 215
+    },
+    {
+      "name": "褚**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 195
+    },
+    {
+      "name": "孙**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 202
+    },
+    {
+      "name": "陈**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 193
+    },
+    {
+      "name": "朱**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 197
+    },
+    {
+      "name": "柯**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 198
+    },
+    {
+      "name": "朱**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 198
+    },
+    {
+      "name": "马**",
+      "gender": "男",
+      "village": "小荡村",
+      "band": "70岁及以上",
+      "hours": 264
+    },
+    {
+      "name": "张*",
+      "gender": "男",
+      "village": "非吴桥镇或未归属",
+      "band": "30-39岁",
+      "hours": 719
+    },
+    {
+      "name": "孙**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "60-69岁",
+      "hours": 326
+    },
+    {
+      "name": "王*",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "30-39岁",
+      "hours": 679
+    },
+    {
+      "name": "钟*",
+      "gender": "男",
+      "village": "西桥社区",
+      "band": "50-59岁",
+      "hours": 903.5
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "70岁及以上",
+      "hours": 264
+    },
+    {
+      "name": "张**",
+      "gender": "男",
+      "village": "小荡村",
+      "band": "70岁及以上",
+      "hours": 227
+    },
+    {
+      "name": "肖**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 595
+    },
+    {
+      "name": "姚**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "60-69岁",
+      "hours": 155
+    },
+    {
+      "name": "谢**",
+      "gender": "男",
+      "village": "谢桥社区",
+      "band": "40-49岁",
+      "hours": 696.5
+    },
+    {
+      "name": "周**",
+      "gender": "男",
+      "village": "世元村",
+      "band": "70岁及以上",
+      "hours": 203
+    },
+    {
+      "name": "吴**",
+      "gender": "男",
+      "village": "小荡村",
+      "band": "70岁及以上",
+      "hours": 303.5
+    },
+    {
+      "name": "涂**",
+      "gender": "女",
+      "village": "世元村",
+      "band": "60-69岁",
+      "hours": 156
+    },
+    {
+      "name": "姜**",
+      "gender": "男",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 428
+    },
+    {
+      "name": "白**",
+      "gender": "女",
+      "village": "李桥村",
+      "band": "50-59岁",
+      "hours": 229
+    },
+    {
+      "name": "田*",
+      "gender": "男",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 256
+    },
+    {
+      "name": "倪**",
+      "gender": "男",
+      "village": "王河村",
+      "band": "50-59岁",
+      "hours": 493.5
+    },
+    {
+      "name": "苏**",
+      "gender": "女",
+      "village": "李桥村",
+      "band": "60-69岁",
+      "hours": 209
+    },
+    {
+      "name": "袁**",
+      "gender": "女",
+      "village": "李桥村",
+      "band": "50-59岁",
+      "hours": 256
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "李桥村",
+      "band": "50-59岁",
+      "hours": 219
+    },
+    {
+      "name": "蒋**",
+      "gender": "女",
+      "village": "李桥村",
+      "band": "50-59岁",
+      "hours": 208
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "李桥村",
+      "band": "50-59岁",
+      "hours": 186
+    },
+    {
+      "name": "庄*",
+      "gender": "女",
+      "village": "李桥村",
+      "band": "50-59岁",
+      "hours": 310
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "李桥村",
+      "band": "50-59岁",
+      "hours": 215
+    },
+    {
+      "name": "秦**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "60-69岁",
+      "hours": 186
+    },
+    {
+      "name": "佴**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 195
+    },
+    {
+      "name": "金**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 187
+    },
+    {
+      "name": "潘**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 194
+    },
+    {
+      "name": "季*",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "70岁及以上",
+      "hours": 190
+    },
+    {
+      "name": "赵**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 187
+    },
+    {
+      "name": "汤**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 183
+    },
+    {
+      "name": "任**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 259
+    },
+    {
+      "name": "顾**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 184
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "世元村",
+      "band": "70岁及以上",
+      "hours": 184
+    },
+    {
+      "name": "袁**",
+      "gender": "女",
+      "village": "世元村",
+      "band": "60-69岁",
+      "hours": 270
+    },
+    {
+      "name": "李**",
+      "gender": "女",
+      "village": "世元村",
+      "band": "70岁及以上",
+      "hours": 180
+    },
+    {
+      "name": "蔡**",
+      "gender": "女",
+      "village": "世元村",
+      "band": "60-69岁",
+      "hours": 184
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "世元村",
+      "band": "70岁及以上",
+      "hours": 186
+    },
+    {
+      "name": "马**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 186
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "60-69岁",
+      "hours": 202
+    },
+    {
+      "name": "顾**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "50-59岁",
+      "hours": 329.5
+    },
+    {
+      "name": "刘**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "60-69岁",
+      "hours": 324.5
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "50-59岁",
+      "hours": 282
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "60-69岁",
+      "hours": 292.5
+    },
+    {
+      "name": "朱**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "50-59岁",
+      "hours": 286
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 320.5
+    },
+    {
+      "name": "郭**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "60-69岁",
+      "hours": 277
+    },
+    {
+      "name": "秦**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 279.5
+    },
+    {
+      "name": "韩**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "70岁及以上",
+      "hours": 283.5
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "60-69岁",
+      "hours": 267.5
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 146
+    },
+    {
+      "name": "徐**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "70岁及以上",
+      "hours": 148
+    },
+    {
+      "name": "刘**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "60-69岁",
+      "hours": 255
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "50-59岁",
+      "hours": 142
+    },
+    {
+      "name": "乔*",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 142
+    },
+    {
+      "name": "夏**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "50-59岁",
+      "hours": 140
+    },
+    {
+      "name": "朱*",
+      "gender": "女",
+      "village": "长庄村",
+      "band": "50-59岁",
+      "hours": 140
+    },
+    {
+      "name": "田**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "50-59岁",
+      "hours": 136
+    },
+    {
+      "name": "李**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "50-59岁",
+      "hours": 140
+    },
+    {
+      "name": "徐**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "60-69岁",
+      "hours": 138
+    },
+    {
+      "name": "王*",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "50-59岁",
+      "hours": 144
+    },
+    {
+      "name": "张**",
+      "gender": "男",
+      "village": "世元村",
+      "band": "70岁及以上",
+      "hours": 140
+    },
+    {
+      "name": "徐**",
+      "gender": "女",
+      "village": "世元村",
+      "band": "50-59岁",
+      "hours": 150
+    },
+    {
+      "name": "赵**",
+      "gender": "女",
+      "village": "进化村",
+      "band": "60-69岁",
+      "hours": 358
+    },
+    {
+      "name": "顾**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "50-59岁",
+      "hours": 160
+    },
+    {
+      "name": "郭**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "50-59岁",
+      "hours": 149
+    },
+    {
+      "name": "胡**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 248
+    },
+    {
+      "name": "彭**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 246
+    },
+    {
+      "name": "周**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 248
+    },
+    {
+      "name": "陈**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 246
+    },
+    {
+      "name": "边**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 235
+    },
+    {
+      "name": "李**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 236
+    },
+    {
+      "name": "李**",
+      "gender": "男",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 240
+    },
+    {
+      "name": "马**",
+      "gender": "男",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 226
+    },
+    {
+      "name": "顾**",
+      "gender": "男",
+      "village": "高扬村",
+      "band": "70岁及以上",
+      "hours": 162
+    },
+    {
+      "name": "倪**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "50-59岁",
+      "hours": 142
+    },
+    {
+      "name": "陈**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "60-69岁",
+      "hours": 142
+    },
+    {
+      "name": "姜**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 142
+    },
+    {
+      "name": "刘**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "70岁及以上",
+      "hours": 142
+    },
+    {
+      "name": "杨**",
+      "gender": "女",
+      "village": "长庄村",
+      "band": "70岁及以上",
+      "hours": 142
+    },
+    {
+      "name": "徐**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "70岁及以上",
+      "hours": 142
+    },
+    {
+      "name": "佴**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "70岁及以上",
+      "hours": 317
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "70岁及以上",
+      "hours": 207
+    },
+    {
+      "name": "姜**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "70岁及以上",
+      "hours": 151
+    },
+    {
+      "name": "谢**",
+      "gender": "男",
+      "village": "谢桥社区",
+      "band": "70岁及以上",
+      "hours": 169
+    },
+    {
+      "name": "朱**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 148
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "50-59岁",
+      "hours": 429
+    },
+    {
+      "name": "李**",
+      "gender": "男",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 148
+    },
+    {
+      "name": "潘**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 309
+    },
+    {
+      "name": "吴**",
+      "gender": "男",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 146
+    },
+    {
+      "name": "张*",
+      "gender": "男",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "30-39岁",
+      "hours": 84
+    },
+    {
+      "name": "董**",
+      "gender": "男",
+      "village": "万寿村",
+      "band": "70岁及以上",
+      "hours": 264
+    },
+    {
+      "name": "顾**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "40-49岁",
+      "hours": 224
+    },
+    {
+      "name": "王*",
+      "gender": "男",
+      "village": "西桥社区",
+      "band": "40-49岁",
+      "hours": 194
+    },
+    {
+      "name": "袁**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "40-49岁",
+      "hours": 220
+    },
+    {
+      "name": "张**",
+      "gender": "男",
+      "village": "万寿村",
+      "band": "18-29岁",
+      "hours": 16
+    },
+    {
+      "name": "杨**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 140
+    },
+    {
+      "name": "史**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "30-39岁",
+      "hours": 152
+    },
+    {
+      "name": "吴**",
+      "gender": "男",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "40-49岁",
+      "hours": 157
+    },
+    {
+      "name": "马**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "50-59岁",
+      "hours": 264
+    },
+    {
+      "name": "董**",
+      "gender": "男",
+      "village": "万寿村",
+      "band": "70岁及以上",
+      "hours": 226
+    },
+    {
+      "name": "陈**",
+      "gender": "男",
+      "village": "万寿村",
+      "band": "60-69岁",
+      "hours": 246
+    },
+    {
+      "name": "汪**",
+      "gender": "男",
+      "village": "五塔村",
+      "band": "50-59岁",
+      "hours": 255
+    },
+    {
+      "name": "莫**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "50-59岁",
+      "hours": 221
+    },
+    {
+      "name": "姜**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "70岁及以上",
+      "hours": 213
+    },
+    {
+      "name": "李**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "50-59岁",
+      "hours": 205
+    },
+    {
+      "name": "张*",
+      "gender": "男",
+      "village": "五塔村",
+      "band": "40-49岁",
+      "hours": 228
+    },
+    {
+      "name": "龚**",
+      "gender": "男",
+      "village": "小荡村",
+      "band": "30-39岁",
+      "hours": 140
+    },
+    {
+      "name": "陈*",
+      "gender": "男",
+      "village": "万寿村",
+      "band": "70岁及以上",
+      "hours": 149
+    },
+    {
+      "name": "左**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 241
+    },
+    {
+      "name": "宗**",
+      "gender": "男",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 188
+    },
+    {
+      "name": "徐**",
+      "gender": "男",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 209
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "70岁及以上",
+      "hours": 174
+    },
+    {
+      "name": "罗**",
+      "gender": "男",
+      "village": "万寿村",
+      "band": "60-69岁",
+      "hours": 317
+    },
+    {
+      "name": "吴*",
+      "gender": "男",
+      "village": "西桥社区",
+      "band": "40-49岁",
+      "hours": 487
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "30-39岁",
+      "hours": 142
+    },
+    {
+      "name": "徐*",
+      "gender": "男",
+      "village": "五塔村",
+      "band": "70岁及以上",
+      "hours": 161
+    },
+    {
+      "name": "李**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "60-69岁",
+      "hours": 216
+    },
+    {
+      "name": "陆**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 197
+    },
+    {
+      "name": "倪**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 177
+    },
+    {
+      "name": "佴**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "18-29岁",
+      "hours": 166
+    },
+    {
+      "name": "马**",
+      "gender": "男",
+      "village": "进化村",
+      "band": "50-59岁",
+      "hours": 262
+    },
+    {
+      "name": "施**",
+      "gender": "男",
+      "village": "谢桥社区",
+      "band": "70岁及以上",
+      "hours": 366
+    },
+    {
+      "name": "龚**",
+      "gender": "男",
+      "village": "世元村",
+      "band": "30-39岁",
+      "hours": 232
+    },
+    {
+      "name": "夏*",
+      "gender": "男",
+      "village": "金阳村",
+      "band": "18-29岁",
+      "hours": 130
+    },
+    {
+      "name": "陆**",
+      "gender": "男",
+      "village": "陆袁村",
+      "band": "40-49岁",
+      "hours": 350
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "红河村",
+      "band": "30-39岁",
+      "hours": 138
+    },
+    {
+      "name": "顾**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "60-69岁",
+      "hours": 156
+    },
+    {
+      "name": "季**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "60-69岁",
+      "hours": 156
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "70岁及以上",
+      "hours": 152
+    },
+    {
+      "name": "陈*",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "70岁及以上",
+      "hours": 152
+    },
+    {
+      "name": "周**",
+      "gender": "女",
+      "village": "五塔村",
+      "band": "50-59岁",
+      "hours": 152
+    },
+    {
+      "name": "谢*",
+      "gender": "男",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 225
+    },
+    {
+      "name": "高**",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "40-49岁",
+      "hours": 252
+    },
+    {
+      "name": "钱**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "50-59岁",
+      "hours": 118
+    },
+    {
+      "name": "夏*",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "18-29岁",
+      "hours": 116
+    },
+    {
+      "name": "陈**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 32
+    },
+    {
+      "name": "陆**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 65
+    },
+    {
+      "name": "陆**",
+      "gender": "男",
+      "village": "陆袁村",
+      "band": "50-59岁",
+      "hours": 52
+    },
+    {
+      "name": "姚**",
+      "gender": "男",
+      "village": "小荡村",
+      "band": "18-29岁",
+      "hours": 65
+    },
+    {
+      "name": "俞*",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 30
+    },
+    {
+      "name": "王**",
+      "gender": "男",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 32
+    },
+    {
+      "name": "周**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 32
+    },
+    {
+      "name": "和**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 32
+    },
+    {
+      "name": "朱**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 66
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "18-29岁",
+      "hours": 50
+    },
+    {
+      "name": "郭**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 54
+    },
+    {
+      "name": "刘**",
+      "gender": "男",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 18
+    },
+    {
+      "name": "宗**",
+      "gender": "女",
+      "village": "长庄村",
+      "band": "40-49岁",
+      "hours": 38
+    },
+    {
+      "name": "庞**",
+      "gender": "男",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 32
+    },
+    {
+      "name": "朱**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "18-29岁",
+      "hours": 0
+    },
+    {
+      "name": "许*",
+      "gender": "男",
+      "village": "西桥社区",
+      "band": "40-49岁",
+      "hours": 311.5
+    },
+    {
+      "name": "孙*",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 6
+    },
+    {
+      "name": "吴*",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "50-59岁",
+      "hours": 646.5
+    },
+    {
+      "name": "张**",
+      "gender": "男",
+      "village": "西桥社区",
+      "band": "50-59岁",
+      "hours": 1261.5
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "50-59岁",
+      "hours": 989.5
+    },
+    {
+      "name": "孙**",
+      "gender": "男",
+      "village": "万寿村",
+      "band": "70岁及以上",
+      "hours": 398
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "60-69岁",
+      "hours": 582.5
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "50-59岁",
+      "hours": 428
+    },
+    {
+      "name": "帅**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "60-69岁",
+      "hours": 395
+    },
+    {
+      "name": "杨**",
+      "gender": "男",
+      "village": "非吴桥镇或未归属",
+      "band": "50-59岁",
+      "hours": 290
+    },
+    {
+      "name": "周*",
+      "gender": "女",
+      "village": "陆袁村",
+      "band": "40-49岁",
+      "hours": 180
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "70岁及以上",
+      "hours": 180
+    },
+    {
+      "name": "仇**",
+      "gender": "女",
+      "village": "金阳村",
+      "band": "60-69岁",
+      "hours": 198
+    },
+    {
+      "name": "于**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 233
+    },
+    {
+      "name": "常**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 228
+    },
+    {
+      "name": "徐**",
+      "gender": "女",
+      "village": "吴桥镇（村庄未注明）",
+      "band": "50-59岁",
+      "hours": 228
+    },
+    {
+      "name": "王**",
+      "gender": "男",
+      "village": "陆袁村",
+      "band": "18-29岁",
+      "hours": 198
+    },
+    {
+      "name": "殷**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "30-39岁",
+      "hours": 393.5
+    },
+    {
+      "name": "夏**",
+      "gender": "男",
+      "village": "西桥社区",
+      "band": "40-49岁",
+      "hours": 164
+    },
+    {
+      "name": "吴**",
+      "gender": "女",
+      "village": "西桥社区",
+      "band": "30-39岁",
+      "hours": 242
+    },
+    {
+      "name": "王**",
+      "gender": "女",
+      "village": "谢桥社区",
+      "band": "40-49岁",
+      "hours": 196
+    },
+    {
+      "name": "顾*",
+      "gender": "女",
+      "village": "谢桥社区",
+      "band": "30-39岁",
+      "hours": 123
+    },
+    {
+      "name": "王**",
+      "gender": "男",
+      "village": "季刘村",
+      "band": "50-59岁",
+      "hours": 434
+    },
+    {
+      "name": "李*",
+      "gender": "男",
+      "village": "进化村",
+      "band": "40-49岁",
+      "hours": 290.5
+    },
+    {
+      "name": "张**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 72
+    },
+    {
+      "name": "乔**",
+      "gender": "男",
+      "village": "非吴桥镇或未归属",
+      "band": "30-39岁",
+      "hours": 221
+    },
+    {
+      "name": "郭*",
+      "gender": "女",
+      "village": "高扬村",
+      "band": "18-29岁",
+      "hours": 128
+    },
+    {
+      "name": "吴**",
+      "gender": "男",
+      "village": "长庄村",
+      "band": "30-39岁",
+      "hours": 114
+    },
+    {
+      "name": "杨*",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 67
+    },
+    {
+      "name": "庄*",
+      "gender": "女",
+      "village": "小荡村",
+      "band": "30-39岁",
+      "hours": 8
+    },
+    {
+      "name": "姚**",
+      "gender": "男",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 66
+    },
+    {
+      "name": "杜**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 66
+    },
+    {
+      "name": "庞**",
+      "gender": "女",
+      "village": "季刘村",
+      "band": "18-29岁",
+      "hours": 66
+    },
+    {
+      "name": "程**",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 18
+    },
+    {
+      "name": "周*",
+      "gender": "女",
+      "village": "非吴桥镇或未归属",
+      "band": "18-29岁",
+      "hours": 137
+    }
+  ],
+  "village_counts": {
+    "小荡村": 39,
+    "吴桥镇（村庄未注明）": 32,
+    "非吴桥镇或未归属": 26,
+    "西桥社区": 22,
+    "五塔村": 19,
+    "陆袁村": 17,
+    "万寿村": 13,
+    "金阳村": 13,
+    "红河村": 11,
+    "世元村": 10,
+    "李桥村": 8,
+    "谢桥社区": 7,
+    "长庄村": 5,
+    "季刘村": 3,
+    "进化村": 3,
+    "高扬村": 2,
+    "王河村": 1
+  }
+}
