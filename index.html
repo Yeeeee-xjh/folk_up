@@ -16,6 +16,9 @@
       <p class="editable-subtitle">南京农业大学社会学系吴桥镇田野调查成果平台</p>
       <div class="stats" id="heroStats" aria-label="数据库统计"></div>
     </div>
+    <div class="sun" aria-hidden="true"></div>
+    <div class="hill hill-back" aria-hidden="true"></div>
+    <div class="hill hill-front" aria-hidden="true"></div>
     <nav class="primary-nav" aria-label="数据库主导航">
       <button data-view="literature" class="active">文献检索</button>
       <button data-view="association">协会概况</button>
@@ -35,17 +38,6 @@
     <section id="map" class="view"></section>
   </main>
 
-  <footer class="site-footer">
-    <div>
-      <strong>民间文艺赋能乡风文明建设研究数据库</strong>
-      <p>南京农业大学社会学系实践教学成果</p>
-    </div>
-    <details>
-      <summary>数据来源与口径说明</summary>
-      <p>本平台汇集田野调查报告、协会资料、公开报道、志愿服务统计与现有影像档案。地图用于呈现村庄之间的位置关系，不作为行政边界或测绘依据。公开页面仅展示经过整理和脱敏的信息。</p>
-    </details>
-  </footer>
-
   <button class="ai-fab" id="aiFab" aria-expanded="false">AI 问答</button>
   <aside class="ai-panel" id="aiPanel" aria-hidden="true">
     <div class="ai-head"><div><strong>资料库问答</strong><small>本地检索模式 · 未配置生成式 AI API</small></div><button id="aiClose" aria-label="关闭">×</button></div>
@@ -53,8 +45,8 @@
     <form id="aiForm"><input id="aiInput" placeholder="例如：公益国学讲堂有哪些课程？"><button>检索</button></form>
   </aside>
 
-  <dialog id="readerDialog" class="reader-dialog"><button class="dialog-close" data-close="readerDialog">关闭</button><article id="readerBody"></article></dialog>
-  <dialog id="lightbox" class="lightbox"><button class="dialog-close" data-close="lightbox">关闭</button><button id="prevImage" class="lightbox-nav prev">上一张</button><figure><img id="lightboxImage" alt="资料影像"><figcaption id="lightboxCaption"></figcaption></figure><button id="nextImage" class="lightbox-nav next">下一张</button></dialog>
+  <dialog id="readerDialog" class="reader-dialog"><button class="dialog-close" data-close="readerDialog">×</button><article id="readerBody"></article></dialog>
+  <dialog id="lightbox" class="lightbox"><button class="dialog-close" data-close="lightbox">×</button><button id="prevImage" class="lightbox-nav prev">‹</button><figure><img id="lightboxImage" alt=""><figcaption id="lightboxCaption"></figcaption></figure><button id="nextImage" class="lightbox-nav next">›</button></dialog>
 
   <script type="module" src="app.js"></script>
 </body>
